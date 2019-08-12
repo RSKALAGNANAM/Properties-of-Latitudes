@@ -9,6 +9,6 @@ I would like to provide a few notes about the HTML and other files I have submit
    exercise some level of discretion in the choices for formatting.
    
 3. I would like to acknowledge direction given to me for different aspects of the homework by Divya. I consulted with
-   her quite a bit to undertand HTML and Bootstrap. I also appreciate the help given by Michael, Bowen as well as my tutor,
+   her quite a bit to understand HTML and Bootstrap. I also appreciate the help given by Michael, Bowen as well as my tutor,
    Chris Richardson. I believe these interactions enriched me and helped me understand the nuances.
 		
